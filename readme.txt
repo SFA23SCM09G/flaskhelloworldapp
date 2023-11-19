@@ -31,7 +31,7 @@ Step 4: To deploy application to gcloud platform:
       l.Go to container, variables & secrets, connection, security and edit container port from 8080 to 80
       m.Click select to create service
 
-  Step5: Set up GitHub
+  Step5: Set ugp GitHub
        a. Download and install git on your machine from https://git-scm.com/downloads 
        b. Create a GitHub account if you do not already have one or Sign in to your github account.
        c. Create a new repository named Hello_app_google_cloud and keep everything set to defaults and click on create repository and follow the steps
